@@ -44,6 +44,10 @@ This Lab series consists of 8 part labs.
 
 ## Lab 6 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVeGL2wggeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Direct Link](https://www.youtube.com/watch?v=bVeGL2wggeg)
+
 ## Lab 7 
 
 ## Lab 8

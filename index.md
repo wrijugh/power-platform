@@ -24,6 +24,30 @@ This Lab series consists of 8 part labs.
 
 [Direct Link](https://www.youtube.com/watch?v=O34FMQ68sDc)
 
+## Lab 3 - Canvas App Part 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW8g_cnyHVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Direct Link](https://www.youtube.com/watch?v=SW8g_cnyHVg)
+
+## Lab 4 - Model-Driven App
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9bD0usTm1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Direct Link](https://www.youtube.com/watch?v=y9bD0usTm1c)
+
+## Lab 5 - Portal App
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEl-ktpYQJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Direct Link](https://www.youtube.com/watch?v=CEl-ktpYQJo)
+
+## Lab 6 
+
+## Lab 7 
+
+## Lab 8
+
 
 ### Support or Contact
 

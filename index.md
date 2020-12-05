@@ -1,5 +1,6 @@
 ## Microsoft Power Platform Resources
 
+[PL-900 Power Platform Fundamentals Recordings]()
 
 ### Support or Contact
 

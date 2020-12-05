@@ -7,16 +7,23 @@ The Lab content is available in Github [here](https://github.com/MicrosoftLearni
 This Lab series consists of 8 part labs. 
 
 ## Introduction
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmEoq1UlWp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Direct Play](https://www.youtube.com/watch?v=lmEoq1UlWp8)
 
 ## Lab 1 and Lab 2 - Setting up the environment and Dataverse
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOS7Q1bQ4mU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Direct Play](https://www.youtube.com/watch?v=EOS7Q1bQ4mU)
 
 ## Lab 3 - Canvas App Part 1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O34FMQ68sDc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Dc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O34FMQ68sDc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Direct Link](https://www.youtube.com/watch?v=O34FMQ68sDc)
+
 
 ### Support or Contact
 

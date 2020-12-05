@@ -42,7 +42,7 @@ This Lab series consists of 8 part labs.
 
 [Direct Link](https://www.youtube.com/watch?v=CEl-ktpYQJo)
 
-## Lab 6 
+## Lab 6 - Power Automate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVeGL2wggeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -27,4 +27,4 @@ This Lab series consists of 8 part labs.
 
 ### Support or Contact
 
-Raise an issue here or reach out to me at [@wrijugh](https://twitter.com/wriju)
+Raise an issue here or reach out to me at [@wrijugh](https://twitter.com/wrijugh)
